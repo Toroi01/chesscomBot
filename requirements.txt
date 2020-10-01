@@ -1,0 +1,4 @@
+selenium==3.141.0
+webdriver_manager==3.2.2
+python-chess==0.25.1
+keyboard==0.13.5
